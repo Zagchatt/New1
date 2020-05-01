@@ -1,6 +1,3 @@
-`).insertBefore('.nav-tabs');
-$("div#tlogins button.btn.btn-primary").click(function(){
-    var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){ 
     $(`
         <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
           <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(pic/1dl1qds5g10.jpeg.jpg);" class="fl fitimg hand u-pic    ">
