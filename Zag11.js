@@ -13,6 +13,3 @@ ul.nav.nav-tabs.fl li {border-bottom: 3px;width: 33.3%;}
     margin-top: 4px;
 }
 </style>`).insertBefore('body');
-$( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
-$(".label-primary").css("border-radius","35px 0px 35px 0px")
-$('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '1px solid #FFFFFF',borderLeft: '1px solid #FFFFFF',borderTop: '.1px solid #FFFFFF',borderBottom: '.1px solid #FFFFFF',paddingTop: '3px',borderRadius: '3px 3px 3px 3px'});
